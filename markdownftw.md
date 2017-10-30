@@ -14,3 +14,13 @@ Another heading (like an h2)
 # kind of like h2
 
 # kind of like h3
+
+An unordered list
+* this is the first thing
+* and the second
+
+Ordered list
+
+
+2. this is the first item
+3. this is the second 
