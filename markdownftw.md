@@ -33,3 +33,7 @@ print('hello from github pages')
 
 
 this is githubpages. Use jeky11 to generate site
+
+to creat a link: square brackets, then parens with actual url
+[this is a link to the jekll documentation]
+
